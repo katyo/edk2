@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/MIPI-Alliance/public-mipi-sys-t.git
+	branch = 370b5944c046bab043dd8b133727b2135af7747a
+	commit = 370b5944c046bab043dd8b133727b2135af7747a
+	parent = e9b803f53c498dbf4c8766f3c4ca056028b1af2d
+	method = merge
+	cmdver = 0.4.6
