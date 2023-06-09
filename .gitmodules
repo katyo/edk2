@@ -1,6 +1,3 @@
-[submodule "UnitTestFrameworkPkg/Library/CmockaLib/cmocka"]
-	path = UnitTestFrameworkPkg/Library/CmockaLib/cmocka
-	url = https://github.com/tianocore/edk2-cmocka.git
 [submodule "UnitTestFrameworkPkg/Library/GoogleTestLib/googletest"]
 	path = UnitTestFrameworkPkg/Library/GoogleTestLib/googletest
 	url = https://github.com/google/googletest.git
