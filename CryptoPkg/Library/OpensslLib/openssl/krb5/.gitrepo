@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/krb5/krb5
+	branch = 890ca2f401924cdcb88f493950b04700bbe52db3
+	commit = 890ca2f401924cdcb88f493950b04700bbe52db3
+	parent = 9eeb5fbe0366bb0360f7985dd9564491d8336b1b
+	method = merge
+	cmdver = 0.4.6
