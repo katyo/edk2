@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/tianocore/edk2-cmocka.git
+	branch = 1cc9cde3448cdd2e000886a26acf1caac2db7cf1
+	commit = 1cc9cde3448cdd2e000886a26acf1caac2db7cf1
+	parent = 17dd10ad0c556a776814741cd54bb88186fcdb49
+	method = merge
+	cmdver = 0.4.6
