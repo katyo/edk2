@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/akheron/jansson
+	branch = e9ebfa7e77a6bee77df44e096b100e7131044059
+	commit = e9ebfa7e77a6bee77df44e096b100e7131044059
+	parent = 7e1a4466235669d2bb0ce661753a16494cd18a6c
+	method = merge
+	cmdver = 0.4.6
