@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://boringssl.googlesource.com/boringssl
+	branch = 2070f8ad9151dc8f3a73bffaa146b5e6937a583f
+	commit = 2070f8ad9151dc8f3a73bffaa146b5e6937a583f
+	parent = 4e53af8187164307e0c451289a6227cdbb094213
+	method = merge
+	cmdver = 0.4.6
