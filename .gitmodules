@@ -10,6 +10,3 @@
 [submodule "UnitTestFrameworkPkg/Library/SubhookLib/subhook"]
 	path = UnitTestFrameworkPkg/Library/SubhookLib/subhook
 	url = https://github.com/Zeex/subhook.git
-[submodule "MdePkg/Library/MipiSysTLib/mipisyst"]
-	path = MdePkg/Library/MipiSysTLib/mipisyst
-	url = https://github.com/MIPI-Alliance/public-mipi-sys-t.git
