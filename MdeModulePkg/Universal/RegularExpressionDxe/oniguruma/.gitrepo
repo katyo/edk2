@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/kkos/oniguruma
+	branch = abfc8ff81df4067f309032467785e06975678f0d
+	commit = abfc8ff81df4067f309032467785e06975678f0d
+	parent = 5081c15fe141e253c3884005897812722e18af5d
+	method = merge
+	cmdver = 0.4.6
